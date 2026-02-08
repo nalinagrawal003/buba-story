@@ -220,7 +220,7 @@ function App() {
         ref={audioRef}
         loop
         preload="auto"
-        src="/music/romantic-music.mp3"
+        src={`${import.meta.env.BASE_URL}music/romantic-music.mp3`}
       />
 
       {/* Welcome Screen */}
