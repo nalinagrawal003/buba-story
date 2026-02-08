@@ -17,7 +17,7 @@ const timelineEvents = [
     emoji: '☕',
     title: 'First Date',
     date: 'When Butterflies Became Real',
-    text: "Nervous smiles, endless talking, and me pretending to be calm. But inside? My heart was racing the entire time.",
+    text: "It was a movie date ..Do You Remember the name huhhh??",
     image: null, // Add your image URL here
     caption: 'Us, before we knew how much we\'d mean to each other.'
   },
@@ -229,7 +229,7 @@ function App() {
           <div className="main-heart">💖</div>
           <h1 className="welcome-title">Our Story</h1>
           <p className="welcome-subtitle">
-            A journey through our beautiful memories together...
+            Happy Propose Day ....BUBA
           </p>
 
           <button className="music-toggle" onClick={toggleMusic}>
